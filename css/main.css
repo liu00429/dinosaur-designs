@@ -1,28 +1,30 @@
 html {
-  background-color: #f2f1ed
+  background-color: #f2f1ed;
   font-family: Georgia, serif;
-  line-height: 1.5
+  line-height: 1.5;
 }
 
 img {
-  width: 100%
+  width: 100%;
 }
 
-h1,h2 {
+h1, h2 {
   color: #5d8432;
   text-transform: uppercase;
-  font-family: 'Denk One', sans-serif;
+  font-family: "Patua One", sans-serif;
 }
 
 figcaption {
-  font-size: .8rem;
+  font-size: 1rem;
   font-style: italic;
   text-align: center;
+  font-family: "Patua One", sans-serif;
 }
 
 nav {
-  font-size: 1.125rem
+  font-size: 1.125rem;
   font-weight: bold;
+  font-family: "Patua One", sans-serif;
 }
 
 nav ol {
